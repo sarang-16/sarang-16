@@ -1,55 +1,53 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Python+Developer;Building+Cool+Projects+Every+Day" />
+# <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&center=true&vCenter=true&width=800&lines=Hi+I'm+Sarang+Jaiswal;AI+%26+ML+Enthusiast;Data+Analytics+Explorer;Building+AI+Projects" />
 </div>
 
+<br>
+
+<img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+
+# 🚀 About Me
+
+🎓 BCA Student specializing in **Artificial Intelligence & Data Analysis**
+
+🏫 Studying at **LNCT University**
+
+🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
+
+📊 Interested in **Data Analytics, Visualization & Business Intelligence**
+
+💻 Building practical projects using AI and Data Science
+
+🌱 Currently learning **Deep Learning, LLMs and Advanced ML**
+
+🏆 Completed AI & ML Internship with **IBM SkillsBuild, AICTE & Edunet Foundation**
+
+⚡ Turning ideas into intelligent solutions
+
+<br clear="right"/>
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=250&section=header&text=Sarang%20Jaiswal&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-
-## 🚀 About Me
-
-🎓 BCA Student (AI & Data Analysis)
-
-🏫 LNCT University
-
-🤖 Passionate about Artificial Intelligence & Machine Learning
-
-📊 Interested in Data Analytics & Visualization
-
-💻 Love Building Real-World Projects
-
-🌱 Currently Learning Advanced ML & Deep Learning
-
-🏆 AI & ML Intern at IBM SkillsBuild + Edunet Foundation
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sarang-jaiswal-">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="https://github.com/sarang-16">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
 
 ---
 
-## 💻 Coding Animation
-
-<p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450">
-</p>
-
----
-
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -58,129 +56,144 @@
 <img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://skillicons.dev/icons?i=c" />
 <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=r" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=streamlit" />
 
 </p>
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 ```text
 ✓ Machine Learning
 ✓ Deep Learning
+✓ Generative AI
 ✓ Data Analytics
+✓ Data Science
 ✓ Power BI
 ✓ Streamlit
-✓ Generative AI
-✓ Data Science
+✓ Large Language Models (LLMs)
 ```
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 AI Resume & Portfolio Builder
+## 🤖 AI Resume & Portfolio Builder
 
-AI-powered application that generates:
+An AI-powered web application that automatically generates:
 
-- Professional Resume
-- Cover Letter
-- Portfolio Website
+✔ Professional Resume
 
-Using:
-- Python
-- Streamlit
-- Gemini AI
+✔ Cover Letter
 
----
+✔ Personal Portfolio Website
 
-### 🏠 House Price Predictor
+### Technologies
 
-Machine Learning project that predicts housing prices using regression algorithms.
-
-Tech Used:
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
+Python • Streamlit • Gemini AI • NLP
 
 ---
 
-### 💰 Smart Personal Finance Tracker
+## 🏠 House Price Predictor
 
-Track expenses, visualize spending habits and manage personal finances.
+Machine Learning model that predicts housing prices using historical housing data and regression algorithms.
 
-Features:
-- Expense Tracking
-- Analytics Dashboard
-- Budget Monitoring
+### Technologies
 
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" />
-</p>
+Python • Pandas • NumPy • Scikit-Learn
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 💰 Smart Personal Finance Tracker
 
-Generate this using GitHub Actions.
+Personal finance management system for monitoring expenses and spending habits.
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
+### Features
 
----
+📌 Expense Tracking
 
-## 🌌 AI Developer Mode
+📌 Budget Monitoring
 
-<p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
-</p>
+📌 Analytics Dashboard
+
+📌 Financial Reports
 
 ---
 
-## ☕ Fun Fact
+# 🐍 Contribution Snake
+
+Add this GitHub Action later to generate your contribution snake:
+
+```html
+<img src="https://raw.githubusercontent.com/sarang-16/sarang-16/output/github-contribution-grid-snake-dark.svg">
+```
+
+---
+
+# 🌌 AI Developer Mode
 
 ```python
-while(True):
-    learn()
-    build()
-    improve()
-    repeat()
+class SarangJaiswal:
+
+    def __init__(self):
+        self.role = "AI & ML Enthusiast"
+        self.university = "LNCT University"
+
+    def skills(self):
+        return [
+            "Machine Learning",
+            "Deep Learning",
+            "Generative AI",
+            "Data Analytics"
+        ]
+
+    def routine(self):
+        while True:
+            Learn()
+            Build()
+            Improve()
+            Repeat()
 ```
 
 ---
 
-## 💭 Random Dev Quote
+# ☕ Fun Fact
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+```python
+while True:
+    learn()
+    code()
+    build()
+    improve()
+```
 
 ---
 
-## 👀 Profile Visitors
+# 💭 Developer Quote
+
+> "Every expert was once a beginner who refused to quit."
+
+---
+
+# 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+
+<img src="https://komarev.com/ghpvc/?username=sarang-16&label=PROFILE+VIEWS&style=for-the-badge"/>
+
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for Visiting My Profile ⭐
+### ⭐ Thanks For Visiting My Profile ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C2FF&height=120&section=footer"/>
+#### 🚀 Learning Today • Building Tomorrow
 
 </div>
